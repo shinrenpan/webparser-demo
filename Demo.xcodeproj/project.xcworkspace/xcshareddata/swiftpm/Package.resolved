@@ -1,0 +1,15 @@
+{
+  "originHash" : "c3eb5a61ee1bd6523dc6ca4e93420d3f91fd6bf83456f79b7b0a7fb9639d5639",
+  "pins" : [
+    {
+      "identity" : "webparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shinrenpan/WebParser",
+      "state" : {
+        "revision" : "579880401efa350c392c3cbc519f145c22b7ff8c",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
