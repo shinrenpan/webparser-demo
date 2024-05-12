@@ -1,1 +1,1 @@
-Demo for [WebParser](https://github.com/shinrenpan/WebParser).
+https://shinrenpan.github.io/02
